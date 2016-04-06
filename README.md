@@ -87,3 +87,4 @@ For Windows, it is possible to obtain dependencies from corresponding software s
 
 On Windows, cmake command line additionally might need to include the location
 of dependencies.  Refer to scripts in `bin/` subdirectory for an example how to specify them.
+
